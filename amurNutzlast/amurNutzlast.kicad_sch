@@ -543,10 +543,6 @@
       (effects (font (size 1.27 1.27)) (justify right))
       (uuid 18c9c1c4-f5f6-4832-adf9-c4a6062ba382)
     )
-    (pin "FTDI_RX" input (at 111.76 157.48 0)
-      (effects (font (size 1.27 1.27)) (justify right))
-      (uuid 297bd66e-0d92-4855-9e38-26ce3d37d043)
-    )
     (pin "FTDI_DCD" input (at 111.76 160.02 0)
       (effects (font (size 1.27 1.27)) (justify right))
       (uuid 574270c8-3740-4604-89e9-7eb021739b68)
@@ -562,6 +558,10 @@
     (pin "FTDI_CTS" input (at 111.76 167.64 0)
       (effects (font (size 1.27 1.27)) (justify right))
       (uuid ac0d45a5-c8ec-4034-841d-a5dbc8119284)
+    )
+    (pin "FTDI_RX" output (at 111.76 157.48 0)
+      (effects (font (size 1.27 1.27)) (justify right))
+      (uuid 0ff5f794-7447-4ab6-a02b-5eb259b5747f)
     )
     (instances
       (project "amurNutzlast"
