@@ -491,6 +491,10 @@
     [
       "baccd8b0-0f8a-4d7f-90a2-78ebcab7896d",
       "ftdi"
+    ],
+    [
+      "3f6f127f-4737-4dbf-9557-393c99a40b69",
+      "usb"
     ]
   ],
   "text_variables": {}
