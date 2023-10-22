@@ -1710,7 +1710,7 @@
     (property "Footprint" "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm" (at 88.9 157.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 88.9 157.48 0)
+    (property "Datasheet" "https://www.mouser.de/ProductDetail/ABRACON/ABM8AIG-12.000MHZ-1Z-T?qs=uwxL4vQweFO5XCxMHCFfeA%3D%3D" (at 88.9 157.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 6abfe2b4-cf6e-4630-b17f-023ef2de9567))
