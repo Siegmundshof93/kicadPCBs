@@ -1065,6 +1065,15 @@
     (uuid fa681d4f-bb47-4dc2-8264-7142585e5f02)
   )
 
+  (label "out_1.2v" (at 137.16 96.52 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 5cba9056-7ff9-44dc-8934-27fe8a351bc4)
+  )
+  (label "out_3.3v" (at 139.7 63.5 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 70496f6c-3a95-4064-973b-46fe5eb49a96)
+  )
+
   (symbol (lib_id "Device:C_Small") (at 119.38 99.06 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 01ae4cf3-c652-4997-89a8-7ed1afd0d931)
